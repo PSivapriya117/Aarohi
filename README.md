@@ -53,6 +53,9 @@ Aarohi creates a digital ecosystem where women can grow their startups, connect 
 - Bottom Navigation Bar
 
 ---
+##screenshots :https://drive.google.com/drive/folders/1av2km900ZGnDEa8sJE--v7fp4AZrCoKF
+
+## Demo video link :
 
 ## 📦 Installation
 
