@@ -1,16 +1,67 @@
-# aarohi
+# 🌸 Aarohi – Women Entrepreneur Support App
 
-A new Flutter project.
+## 📌 Project Description
 
-## Getting Started
+**Aarohi** is a Flutter-based web application designed to empower women entrepreneurs by providing business guidance, networking opportunities, skill development resources, and AI-powered business assistance.
 
-This project is a starting point for a Flutter application.
+The app supports two user roles:
 
-A few resources to get you started if this is your first Flutter project:
+- 👩‍💼 Normal Users  
+- 👑 VIP Users  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aarohi creates a digital ecosystem where women can grow their startups, connect with peers, access job opportunities, attend exclusive talk sessions, and receive AI-driven business guidance.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Platform:** Web (Chrome)
+- **State Management:** Stateful Widgets
+- **UI Framework:** Material Design
+- **Version Control:** Git & GitHub
+
+---
+
+## ✨ Features
+
+### 👤 Role-Based Access
+- Separate dashboards for Normal & VIP users
+- VIP-only Talk Sessions
+
+### 📊 Business Tools
+- Analytics Dashboard
+- Skill Development Section
+- Achievement Tracking
+- Job Advertisements
+
+### 🤝 Networking & Community
+- Connection Panel
+- Peer Learning Support
+- Entrepreneur Profiles
+
+### 🤖 AI Business Assistant
+- Business Plan Guidance
+- Investment Estimation
+- Startup Budget Planning
+- Strategy Suggestions
+
+### 🎨 Modern UI/UX
+- Inspired by Amazon/Myntra layout
+- Color Theme: Dark Navy, Amber, Coral Red, Light Gray, White
+- Responsive Grid Dashboard
+- Bottom Navigation Bar
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/aarohi-app.git
+
+# Navigate into project folder
+cd aarohi-app
+
+# Install dependencies
+flutter pub get
